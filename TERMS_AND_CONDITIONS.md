@@ -104,7 +104,7 @@ Your data may be stored and processed in any country. By using Blender MCP, you 
 
 ### Your Content
 
-You retain ownership of any content you create using Blender MCP. Use of this tool does not transfer any intellectual property rights to the project maintainer.
+You retain ownership of any content you create using Blender MCP. The prompts you submit and the 3D scenes you generate remain yours. I claim no ownership over your creative work.
 
 ### Project License
 
@@ -112,10 +112,16 @@ Blender MCP is released under the MIT License. See the LICENSE file in the repos
 
 ---
 
-## 11. Changes to This Policy
+## 11. Disclaimer of Warranties
 
-I may update this document from time to time. Continued use of Blender MCP after changes are posted constitutes acceptance of the updated terms.
+Blender MCP is provided "as is" without warranty of any kind. I make no guarantees about the accuracy, reliability, or fitness for a particular purpose of this software.
 
 ---
 
-> **Personal note (fork):** Telemetry is disabled by default in my personal setup. I'm using this fork purely for learning purposes and do not intend to redistribute it.
+## 12. Changes to This Policy
+
+I may update this policy from time to time. Continued use of Blender MCP after changes constitutes acceptance of the updated terms.
+
+---
+
+*Note (personal fork): Telemetry is disabled by default in my local setup. I use this fork purely for learning and personal projects — no data leaves my machine.*
